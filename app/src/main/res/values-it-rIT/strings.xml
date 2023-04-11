@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ApplicazioneUCV</string>
+    <string name="app_on_create">chiama per crear</string>
+    <string name="app_on_star">inizio chiamata</string>
+    <string name="app_on_resume">chiamata sommaria</string>
+    <string name="app_on_stop">chiama per fermarti</string>
+    <string name="app_on_restart">chiama per riavviare</string>
+    <string name="app_on_pause">chiama per mettere in pausa</string>
+    <string name="app_on_destroy">chiamata a distruggere</string>
+    <string name="app_title">Benvenuto nell\'app</string>
+    <string name="app_label">nome</string>
+    <string name="app_button">salutare</string>
+    <string name="app_input">inserisci il nome</string>
+</resources>

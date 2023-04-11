@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppUCV</string>
+    <string name="app_title">Hello App</string>
+    <string name="app_label">Name</string>
+    <string name="app_input">Enter your Name</string>
+    <string name="app_button">Greet</string>
+    <string name="app_on_create">calling onCreate</string>
+    <string name="app_on_star">calling onStart</string>
+    <string name="app_on_resume">calling onResume</string>
+    <string name="app_on_stop">calling onStop</string>
+    <string name="app_on_restart">calling onRestart</string>
+    <string name="app_on_pause">calling onPause</string>
+    <string name="app_on_destroy">calling onDestroy</string>
+</resources>
